@@ -83,7 +83,7 @@ void change_dir(char* command){
 void print_help(void){
     printf("The list of commands supported by this shell is: %s, %s, %s and %s.\n", "cd", "clr", "echo", "quit");
     printf("In additional, you can also specify the name of a program to run.\n");
-    printf("Thanks for using the Raven shell!\n");
+    printf("Thanks for using the Crow Shell!\n");
 }
 
 
